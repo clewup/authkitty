@@ -1,0 +1,9 @@
+[submodule "authkitty-ui"]
+	path = authkitty-ui
+	url = https://github.com/clewup/authkitty-ui
+[submodule "authkitty-api"]
+	path = authkitty-api
+	url = https://github.com/clewup/authkitty-api
+[submodule "authkitty-helpers"]
+	path = authkitty-helpers
+	url = https://github.com/clewup/authkitty-helpers
